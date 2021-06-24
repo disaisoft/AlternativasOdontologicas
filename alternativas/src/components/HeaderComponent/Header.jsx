@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import './styles/HeaderStyle.css';
 import Logo from '../img/logo_alternativas_odontológicas-removebg.png';
 
-class Header extends Component {
+class Header extends React.Component {
   state = {};
   render() {
     return (
