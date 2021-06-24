@@ -26,13 +26,11 @@ class Header extends Component {
           <div className="collapse navbar-collapse" id="navbarsExample07">
             <ul className="navbar-nav mr-auto ">
               <li className="nav-item active">
-                <a className="nav-link text-dark" href="/">
-                  inicio <span class="sr-only">(current)</span>
-                </a>
+                
               </li>
               <li className="nav-item">
                 <a className="nav-link text-dark" href="#aboutme">
-                  sobre nosotros
+                  Inicio
                 </a>
               </li>
               <li className="nav-item dropdown">
@@ -44,7 +42,7 @@ class Header extends Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  cursos
+                  Servicios Odontologicos
                 </a>
                 <div className="dropdown-menu" aria-labelledby="dropdown07">
                   <a className="dropdown-item" href="#frontend">
@@ -60,17 +58,17 @@ class Header extends Component {
               </li>
               <li className="nav-item">
                 <a className="nav-link text-dark" href="#requisitos">
-                  requisitos
+                  Blog
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link text-dark" target="_blanck" href="http://nodoka.co">
-                  Nodo Ká
+                  Nosotros
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link text-dark" target="_blanck" href="https://www.tecnologiaparaelsectorsocial.org">
-                  Donaciones de Software
+                  Contacto
                 </a>
               </li>
             </ul>
@@ -81,14 +79,14 @@ class Header extends Component {
         <div className="position-relative overflow-hidden p-3 p-md-5 bg-home text-white">
           <div className="col-md-5 p-lg-5 my-5 bg-color-home">
             <h1 className="display-4 font-weight-normal title-home">
-              Makaia en PRO del Progreso Tecnológico
+            Urgencias Odontológicas 24 horas con cita previa
             </h1>
             <p className="lead font-weight-normal" />
             <a
               className="btn btn-primary btn-lg btn-block bg-boton font-weight-bold mb-2 boton-letter mt-4"
               href="#requisitos"
             >
-              Inscríbete en los cursos disponibles
+              Llamar Ahora
             </a><br/>
             {/* <a
               className="btn btn-primary btn-lg bg-boton font-weight-bold boton-letter py-1"
