@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import './styles/AboutMeStyle.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
+
 class AboutMe extends Component {
   state = {};
   render() {
