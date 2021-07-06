@@ -145,7 +145,7 @@ const Portfolio = () => (
                   <p>
                   Tratamiento quirúrgico enfocado en atender las enfermedades que se producen en la boca, los maxilares y sus tejidos  
                   </p>
-                  <a className="btn btn-primary disabled" href="#" target="_blank">
+                  <a className="btn btn-primary" href="#" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -165,7 +165,7 @@ const Portfolio = () => (
                   <p>
                   Procedimiento que trata los conductos o raíces del diente para eliminar caries profundas y así evitar la pérdida de las piezas dentales afectadas.  
                   </p>
-                  <a className="btn btn-primary disabled" href="#" target="_blank">
+                  <a className="btn btn-primary" href="#" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -185,7 +185,7 @@ const Portfolio = () => (
                   <p>
                   Aunque tengas una excelente higiene dental es común que con el tiempo tus dientes acumulen placa bacteriana, la cual forma el sarro o los cálculos, que no se pueden eliminar con el cepillado y producen enfermedades dentales.  
                   </p>
-                  <a className="btn btn-primary disabled" href="#" target="_blank">
+                  <a className="btn btn-primary" href="#" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>

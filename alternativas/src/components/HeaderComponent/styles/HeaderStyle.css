@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton');
 
 .bg-home{
-    background-image: url('/src/components/img/consultoria.JPG');
+    background-image: url('/src/components/img/consultoria1.jpg');
     background-position: center;
     background-size: cover;
 }
