@@ -37,6 +37,7 @@ class Footer extends Component {
                       className="p-2"
                       color="blue"
                     />
+                    <i className="insta fa fa-instagram fa-3x" aria-hidden="true"></i>
                   </a>
                   <a
                     className="text-white p-2"
@@ -49,6 +50,7 @@ class Footer extends Component {
                       className="p-2"
                       color="aqua"
                     />
+                    <i className="face fa fa-facebook-official fa-3x" aria-hidden="true"></i><br /><br />
                   </a>
                   <a
                     className="text-white p-3"
@@ -85,7 +87,7 @@ class Footer extends Component {
           </div>          
         </div> 
         <div className="btn-whatsapp">
-                <a href="https://api.whatsapp.com/send?phone=573015343777" target="_blank">
+                <a href="https://api.whatsapp.com/send?phone=573002161403" target="_blank">
                     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="" />
                 </a>
             </div>
