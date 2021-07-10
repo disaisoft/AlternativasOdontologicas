@@ -15,7 +15,7 @@ const Portfolio = () => (
   <section id="Portfolio">
     <hr className="my-4 bg-light" />
 
-    <div className="container-fluid mt-4 mb-3 text-center">
+    <div className="container mt-4 mb-3 text-center">
       <h1 className="mb-3">Servicios Odontologicos</h1>
       <p className="mb-5">Nuestros servicios son los siguientes:</p>
 

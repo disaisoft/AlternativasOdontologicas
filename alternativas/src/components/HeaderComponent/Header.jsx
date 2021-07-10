@@ -7,7 +7,7 @@ class Header extends React.Component {
   render() {
     return (
       <React.Fragment>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light text-dark text-uppercase">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
           <a className="m-0 p-0 w-25" href="/"><img src={Logo} alt="" className="w-50 logo-home"/>
           </a>
@@ -62,7 +62,7 @@ class Header extends React.Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-dark" target="_blanck" href="http://nodoka.co">
+                <a className="nav-link text-dark" href="#aboutme">
                   Nosotros
                 </a>
               </li>
@@ -85,7 +85,7 @@ class Header extends React.Component {
             <p className="lead font-weight-normal" />
             <a
               className="btn btn-primary btn-lg btn-block bg-boton font-weight-bold mb-2 boton-letter mt-4"
-              href="#requisitos"
+              href="tel:+573002161403"
             >
               Llamar Ahora - 3002161403
             </a><br/>

@@ -29,7 +29,7 @@ class Footer extends Component {
                   <a
                     className="text-white p-2"
                     target="_blanck"
-                    href="https://www.facebook.com/Makaiaorg"
+                    href="https://www.instagram.com/alternativasodontologicas/"
                   >
                     <FontAwesomeIcon
                       icon={["fab", "facebook"]}
@@ -42,7 +42,7 @@ class Footer extends Component {
                   <a
                     className="text-white p-2"
                     target="_blanck"
-                    href="https://twitter.com/Makaiaorg"
+                    href="https://www.facebook.com/alternativasodontologicas/"
                   >
                     <FontAwesomeIcon
                       icon={["fab", "twitter"]}
