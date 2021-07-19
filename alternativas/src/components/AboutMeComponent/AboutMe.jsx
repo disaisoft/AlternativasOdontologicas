@@ -12,21 +12,21 @@ class AboutMe extends Component {
         <div className="row">
           <div className="col-md-4 col-lg-4"><br />
             <FontAwesomeIcon icon="question" size="7x" className="p-2" color="orange"/>
-            <i className="fa fa-heartbeat fa-5x" aria-hidden="true"></i><br /><br />
-            <h3>Experiencia Alternativas Odontológicas</h3>
-            <p>Más de 35 años protegiendo, restaurando y fortaleciendo sonrisas. <br/><br/> Horario de atención:  8:00 a. m. a 10:00 a. m. <br/> De Lunes a Domingo <br/> Medellín - Colombia</p>
+            <i className="fa fa-smile-o fa-5x" aria-hidden="true"></i><br /><br />
+            <h3>Experiencia de Alternativas Odontológicas</h3>
+            <p>Más de 35 años de ejercicio nos dan la experiencia, para un buen servicio. Restaurando y fortaleciendo sonrisas a través de nuestros especialistas. <br/><br/> Horario de atención:  8:00 a. m. a 10:00 p. m. <br/> De Lunes a Domingo <br/> Medellín - Colombia</p>
           </div>
           <div className="col-md-4 col-lg-4 shadow"><br />
           <FontAwesomeIcon icon="tools" size="7x" className="p-2" color="orange"/>
           <i className="fa fa-users fa-5x" aria-hidden="true"></i><br /><br />
             <h3>¿Qué hacemos?</h3>
-            <p>Brindamos servicio de Odontología y Urgencias Odontológicas las 24 horas, todos los días de la semana, en Medellín. <br/> Cita inmediata, procedimientos y toma de radiografías en un sólo lugar. Sin filas y desplazamientos innecesarios.</p>
+            <p>Urgencias Odontológicas hasta las 10PM, todos los días de la semana, en Medellín. <br/> Toma de radiografías en un sólo lugar. Sin filas y desplazamientos innecesarios. <br /><br /> Consulte su caso telefónicamente, para ser más objetivo en la solución acorde a su procedimiento.</p>
           </div>
           <div className="col-md-4 col-lg-4"><br />
           <FontAwesomeIcon icon="chalkboard-teacher" size="7x" className="p-2" color="orange"/>
           <i className="fa fa-ambulance fa-5x" aria-hidden="true"></i><br /><br />
             <h3>Urgencias Odontológicas</h3>
-            <p>En caso de urgencia que implique prótesis: contamos con laboratorio propio. Realizamos procedimientos y toma de Radiografías en un sólo lugar.  <br/> Solo basta una llamada, y en instantes podrá visitarnos</p>
+            <p>En caso de urgencia que implique prótesis: Contamos con laboratorio propio. Para brindarle lo más inmediato posible una solución tanto estética como funcional. <br/> <br />Solo basta una llamada, y en instantes podrá visitarnos. </p>
           </div>
         </div>
       </div>

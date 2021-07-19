@@ -16,7 +16,7 @@ const Portfolio = () => (
     <hr className="my-4 bg-light" />
 
     <div className="container mt-4 mb-3 text-center">
-      <h1 className="mb-3">Servicios Odontologicos</h1>
+      <h1 className="mb-3">Servicios Odontológicos</h1>
       <p className="mb-5">Nuestros servicios son los siguientes:</p>
 
       <div className="row mt-3 pb-2 ">
@@ -31,7 +31,7 @@ const Portfolio = () => (
                   <p>
                   Dolor en los dientes, fracturas, sangrado de encías, abscesos, lesiones generadas por traumatismos. 
                   </p>
-                  <a className="btn btn-danger " href="https://smartfarmingshg.netlify.com/" target="_blank">
+                  <a className="btn btn-danger " href="tel:+573002161403">
                     Llamar Ahora
                   </a>
                 </div>

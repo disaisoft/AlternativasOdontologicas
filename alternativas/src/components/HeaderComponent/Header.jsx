@@ -87,8 +87,15 @@ class Header extends React.Component {
               className="btn btn-primary btn-lg btn-block bg-boton font-weight-bold mb-2 boton-letter mt-4"
               href="tel:+573002161403"
             >
-              Llamar Ahora - 3002161403
-            </a><br/>
+              Llamar - Opción 1 - 3015343777
+            </a>
+
+            <a
+              className="btn btn-primary btn-lg btn-block bg-boton font-weight-bold mb-2 boton-letter mt-4"
+              href="tel:+573002161403"
+            >
+              Llamar - Opción 2 - 3002161403
+            </a>
             {/* <a
               className="btn btn-primary btn-lg bg-boton font-weight-bold boton-letter py-1"
               href="https://wa.me/0573232933565"
