@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd94acfe.chunk.css",
+    "main.js": "/static/js/main.bc774167.chunk.js",
+    "main.js.map": "/static/js/main.bc774167.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39b008b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39b008b6.js.map",
+    "static/css/2.2e674de1.chunk.css": "/static/css/2.2e674de1.chunk.css",
+    "static/js/2.d8b782fb.chunk.js": "/static/js/2.d8b782fb.chunk.js",
+    "static/js/2.d8b782fb.chunk.js.map": "/static/js/2.d8b782fb.chunk.js.map",
+    "static/js/3.d4b0279d.chunk.js": "/static/js/3.d4b0279d.chunk.js",
+    "static/js/3.d4b0279d.chunk.js.map": "/static/js/3.d4b0279d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2e674de1.chunk.css.map": "/static/css/2.2e674de1.chunk.css.map",
+    "static/css/main.dd94acfe.chunk.css.map": "/static/css/main.dd94acfe.chunk.css.map",
+    "static/js/2.d8b782fb.chunk.js.LICENSE.txt": "/static/js/2.d8b782fb.chunk.js.LICENSE.txt",
+    "static/media/24horas1.e1d9b84f.jpg": "/static/media/24horas1.e1d9b84f.jpg",
+    "static/media/cirugiaoral.600f983f.jpg": "/static/media/cirugiaoral.600f983f.jpg",
+    "static/media/HeaderStyle.css": "/static/media/consultoria1.d41f34eb.jpg",
+    "static/media/endodoncia.56ef4b78.jpg": "/static/media/endodoncia.56ef4b78.jpg",
+    "static/media/estetica-natural.f89ef99b.jpg": "/static/media/estetica-natural.f89ef99b.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/higieneoral.793578df.jpg": "/static/media/higieneoral.793578df.jpg",
+    "static/media/implante-dental.adf7a364.jpeg": "/static/media/implante-dental.adf7a364.jpeg",
+    "static/media/laboratorio.a4bea11a.jpg": "/static/media/laboratorio.a4bea11a.jpg",
+    "static/media/logo_alternativas_odontológicas-removebg.1915ea3f.png": "/static/media/logo_alternativas_odontológicas-removebg.1915ea3f.png",
+    "static/media/periodoncia.8a96bd84.jpg": "/static/media/periodoncia.8a96bd84.jpg",
+    "static/media/urgencias.8ddd3a58.jpg": "/static/media/urgencias.8ddd3a58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b008b6.js",
+    "static/css/2.2e674de1.chunk.css",
+    "static/js/2.d8b782fb.chunk.js",
+    "static/css/main.dd94acfe.chunk.css",
+    "static/js/main.bc774167.chunk.js"
+  ]
+}
