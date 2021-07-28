@@ -67,7 +67,7 @@ class Header extends React.Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-dark" target="_blanck" href="https://www.tecnologiaparaelsectorsocial.org">
+                <a className="nav-link text-dark" target="_blanck" href="tel:+573002161403">
                   Contacto
                 </a>
               </li>

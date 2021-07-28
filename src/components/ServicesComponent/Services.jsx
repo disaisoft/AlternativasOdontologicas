@@ -42,14 +42,14 @@ const Portfolio = () => (
         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
           <div className="team-block">
             <div className="team-img">
-              <img src={GonzaloArango} alt="Gonzalo Arango" />
+              <img src={GonzaloArango} alt="Laboratorio" />
               <div className="overlay">
                 <div className="text content-center">
                   <h4 className="mb0 text-white">Laboratorio</h4>
                   <p>
                   Tenemos disponibilidad para realizar prótesis provisionales inmediatas en caso de urgencias, en el menor tiempo posible.
                   </p>
-                  <a className="btn btn-primary " href="https://codepen.io/santiagohenao97/full/qedvNO" target="_blank">
+                  <a className="btn btn-primary " href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -68,7 +68,7 @@ const Portfolio = () => (
                   <p>
                   Estamos a su servicio los 365 días del año. Atendemos su emergencia en el momento que usted lo necesita con sólo una llamada previa.
                   </p>
-                  <a className="btn btn-primary " href="https://academia-geek.netlify.com" target="_blank">
+                  <a className="btn btn-primary " href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -87,7 +87,7 @@ const Portfolio = () => (
                   <p>
                   Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural.
                   </p>
-                  <a className="btn btn-danger " href="https://academia-geek-landing.firebaseapp.com" target="_blank">
+                  <a className="btn btn-danger " href="tel:+573002161403" target="_blank">
                     Lamar Ahora
                   </a>
                 </div>
@@ -106,7 +106,7 @@ const Portfolio = () => (
                   <p>
                   Nuestras técnicas de rehabilitación siempre estarán enfocadas hacia la estética natural. 
                   </p>
-                  <a className="btn btn-primary" href="https://tienda-virtual-geek.firebaseapp.com" target="_blank">
+                  <a className="btn btn-primary" href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -125,7 +125,7 @@ const Portfolio = () => (
                   <p>
                   Es la rehabilitación de todos los tejidos afectados que soportan el diente.  
                   </p>
-                  <a className="btn btn-primary" href="#" target="_blank">
+                  <a className="btn btn-primary" href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -145,7 +145,7 @@ const Portfolio = () => (
                   <p>
                   Tratamiento quirúrgico enfocado en atender las enfermedades que se producen en la boca, los maxilares y sus tejidos  
                   </p>
-                  <a className="btn btn-primary" href="#" target="_blank">
+                  <a className="btn btn-primary" href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -165,7 +165,7 @@ const Portfolio = () => (
                   <p>
                   Procedimiento que trata los conductos o raíces del diente para eliminar caries profundas y así evitar la pérdida de las piezas dentales afectadas.  
                   </p>
-                  <a className="btn btn-primary" href="#" target="_blank">
+                  <a className="btn btn-primary" href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
@@ -185,7 +185,7 @@ const Portfolio = () => (
                   <p>
                   Aunque tengas una excelente higiene dental es común que con el tiempo tus dientes acumulen placa bacteriana, la cual forma el sarro o los cálculos, que no se pueden eliminar con el cepillado y producen enfermedades dentales.  
                   </p>
-                  <a className="btn btn-primary" href="#" target="_blank">
+                  <a className="btn btn-primary" href="tel:+573002161403" target="_blank">
                     Llamar Ahora
                   </a>
                 </div>
